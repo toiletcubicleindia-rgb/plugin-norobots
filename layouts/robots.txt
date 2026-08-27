@@ -1,2 +1,2 @@
-User-agent: *
-Disallow: /
+User-Agent: *
+Sitemap: https://toiletcubicleindia.micro.blog/sitemap.xml
